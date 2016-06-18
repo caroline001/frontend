@@ -1,0 +1,67 @@
+.big{
+	width: 800px;
+	margin: 0 auto;
+	background-color: red;
+	height: 450px;
+}
+h1{
+	text-align: center;
+}
+#small{
+	margin: 0 auto;
+	margin-bottom: 10px;
+} 
+.small1{
+	
+	background-color: red;
+	width: 395px;
+	height: 296px;
+	margin-bottom: 10px;
+   float: left;    
+}
+.small2{
+	background-color: red;
+	width: 395px;
+	height:296px;
+	margin-bottom: 10px;
+	float: right;
+	margin-left:10px;
+}
+.map{
+	width: 800px;
+	height: 600px;
+	margin: 0 auto;
+	background-color: red;
+	margin-top: 10px;
+}
+body{
+	margin: 0 auto;
+	width: 800px;
+}
+p{
+	font-family: sans-serif;
+	margin: 0 auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+ 
+ 
+ 
+
+
+
+
